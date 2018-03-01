@@ -1,0 +1,10 @@
+.hdr
+{
+	text-align: center;
+}
+.bg
+{
+	background-image: url("bodyBackground.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
