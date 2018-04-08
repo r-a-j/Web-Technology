@@ -9,7 +9,7 @@
 </head>
 <body>
 <meta http-equiv="refresh" />
-	<div class="card text-center" style="font-size: 20px; text-shadow: 0px 0px 1px #000000;">
+	<div class="card text-center" style="font-size: 20px; text-shadow: 0px 0px 1px #000000; background-color: lightgray;">
   <div class="card-header">
     <ul class="nav nav-tabs card-header-tabs">
       <li class="nav-item">
@@ -27,9 +27,9 @@
     </ul>
   </div>
   <div class="card-body">
-    <h1 class="display-1" class="card-title" style=" color: gray; text-shadow: 2px 5px 20px #000000; ">Foodie</h1>
+    <h1 class="display-1" class="card-title" style=" color: black; text-shadow: 2px 5px 20px #000000; ">Foodie</h1>
     <p class="card-text"><h3 style=" color: #2e4f96; text-shadow: 0px 0px 1px #000000; ">When you think of food, think ...:::Foodie:::...</h3></p>
-    <p class="card-text"><h5 style=" color: gray; text-shadow: 0px 0px 1px #0000ff; ">...:::Foodie:::... Guilt-Free meals by Pro-Chefs delivered in 20 mins ... !</h5></p>
+    <p class="card-text"><h5 style=" color: black; text-shadow: 0px 0px 1px #000000; ">...:::Foodie:::... Guilt-Free meals by Pro-Chefs delivered in 20 mins ... !</h5></p>
     <a href="add.php" class="btn btn-primary"><b style="text-shadow: 0px 0px 30px #000000;" >Sign Up</b></a>
   </div>
 </div>

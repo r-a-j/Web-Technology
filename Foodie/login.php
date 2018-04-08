@@ -46,7 +46,6 @@
 ?>
 
 
-
 <html>
 <head>
 	<title>Login</title>
@@ -57,7 +56,7 @@
 </head>
 <body>
 <meta http-equiv="refresh" />
-	<div class="card text-center" style="font-size: 20px; text-shadow: 0px 0px 1px #000000;">
+	<div class="card text-center" style="font-size: 20px; text-shadow: 0px 0px 1px #000000; background-color: lightgray;">
   <div class="card-header">
     <ul class="nav nav-tabs card-header-tabs">
       <li class="nav-item">
@@ -74,7 +73,7 @@
 
   <form method="POST" class="form-group">
       <div class="container">
-      <h1 class="display-2" class="card-title" style=" color: gray; text-shadow: 2px 2px 10px #000000; font-family: arial; ">Login</h1><br>
+      <h1 class="display-2" class="card-title" style=" color: black; text-shadow: 2px 2px 50px #000000;">Login</h1><br>
       
       <label for="username"><b style="text-shadow: 0px 0px 1px #000000; font-size: 30px;" >Username</b></label>
       <input class="form-control form-control" type="text" placeholder="Enter Username" name="username" required><br><br>

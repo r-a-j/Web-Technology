@@ -28,7 +28,7 @@ $res = mysqli_query($connection, $ReadSql);
 </head>
 <body>
 <meta http-equiv="refresh" />
-	<div class="card text-center" style="font-size: 20px; text-shadow: 0px 0px 1px #000000;">
+	<div class="card text-center" style="font-size: 20px; text-shadow: 0px 0px 1px #000000; background-color: lightgray;">
   <div class="card-header">
     <ul class="nav nav-tabs card-header-tabs">      
       <li class="nav-item">
